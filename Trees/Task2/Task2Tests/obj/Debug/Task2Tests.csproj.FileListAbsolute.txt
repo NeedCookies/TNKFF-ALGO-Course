@@ -1,0 +1,17 @@
+C:\Self.Educ\C#\TNKFF_Contest\Trees\Task2\Task2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Self.Educ\C#\TNKFF_Contest\Trees\Task2\Task2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Self.Educ\C#\TNKFF_Contest\Trees\Task2\Task2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Self.Educ\C#\TNKFF_Contest\Trees\Task2\Task2Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Self.Educ\C#\TNKFF_Contest\Trees\Task2\Task2Tests\bin\Debug\Task2Tests.dll
+C:\Self.Educ\C#\TNKFF_Contest\Trees\Task2\Task2Tests\bin\Debug\Task2Tests.pdb
+C:\Self.Educ\C#\TNKFF_Contest\Trees\Task2\Task2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Self.Educ\C#\TNKFF_Contest\Trees\Task2\Task2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Self.Educ\C#\TNKFF_Contest\Trees\Task2\Task2Tests\bin\Debug\Task2.exe
+C:\Self.Educ\C#\TNKFF_Contest\Trees\Task2\Task2Tests\bin\Debug\Task2.pdb
+C:\Self.Educ\C#\TNKFF_Contest\Trees\Task2\Task2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Self.Educ\C#\TNKFF_Contest\Trees\Task2\Task2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Self.Educ\C#\TNKFF_Contest\Trees\Task2\Task2Tests\obj\Debug\Task2Tests.csproj.AssemblyReference.cache
+C:\Self.Educ\C#\TNKFF_Contest\Trees\Task2\Task2Tests\obj\Debug\Task2Tests.csproj.CoreCompileInputs.cache
+C:\Self.Educ\C#\TNKFF_Contest\Trees\Task2\Task2Tests\obj\Debug\Task2Tests.csproj.CopyComplete
+C:\Self.Educ\C#\TNKFF_Contest\Trees\Task2\Task2Tests\obj\Debug\Task2Tests.dll
+C:\Self.Educ\C#\TNKFF_Contest\Trees\Task2\Task2Tests\obj\Debug\Task2Tests.pdb

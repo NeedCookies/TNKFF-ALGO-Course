@@ -1,0 +1,105 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Self.Educ\\CSharp\\TNKFF_Contest\\Trees\\Task6\\Task6Tests\\Task6Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Self.Educ\\CSharp\\TNKFF_Contest\\Trees\\Task6\\Task6Tests\\Task6Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Self.Educ\\CSharp\\TNKFF_Contest\\Trees\\Task6\\Task6Tests\\Task6Tests.csproj",
+        "projectName": "Task6Tests",
+        "projectPath": "C:\\Self.Educ\\CSharp\\TNKFF_Contest\\Trees\\Task6\\Task6Tests\\Task6Tests.csproj",
+        "packagesPath": "C:\\Users\\emilk\\.nuget\\packages\\",
+        "outputPath": "C:\\Self.Educ\\CSharp\\TNKFF_Contest\\Trees\\Task6\\Task6Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\emilk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Self.Educ\\CSharp\\TNKFF_Contest\\Trees\\Task6\\Task6\\Task6.csproj": {
+                "projectPath": "C:\\Self.Educ\\CSharp\\TNKFF_Contest\\Trees\\Task6\\Task6\\Task6.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Self.Educ\\CSharp\\TNKFF_Contest\\Trees\\Task6\\Task6\\Task6.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Self.Educ\\CSharp\\TNKFF_Contest\\Trees\\Task6\\Task6\\Task6.csproj",
+        "projectName": "Task6",
+        "projectPath": "C:\\Self.Educ\\CSharp\\TNKFF_Contest\\Trees\\Task6\\Task6\\Task6.csproj",
+        "frameworks": {
+          "net30": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net30": {}
+      }
+    }
+  }
+}

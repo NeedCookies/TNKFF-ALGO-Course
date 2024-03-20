@@ -1,0 +1,6 @@
+C:\Self.Educ\CSharp\TNKFF_Contest\TasksSolutionsWays\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Self.Educ\CSharp\TNKFF_Contest\TasksSolutionsWays\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Self.Educ\CSharp\TNKFF_Contest\TasksSolutionsWays\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Self.Educ\CSharp\TNKFF_Contest\TasksSolutionsWays\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Self.Educ\CSharp\TNKFF_Contest\TasksSolutionsWays\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Self.Educ\CSharp\TNKFF_Contest\TasksSolutionsWays\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

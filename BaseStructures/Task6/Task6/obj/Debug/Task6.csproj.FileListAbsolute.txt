@@ -1,0 +1,6 @@
+C:\Self.Educ\C#\TNKFF_Contest\BaseStructures\Task6\Task6\bin\Debug\Task6.exe
+C:\Self.Educ\C#\TNKFF_Contest\BaseStructures\Task6\Task6\bin\Debug\Task6.pdb
+C:\Self.Educ\C#\TNKFF_Contest\BaseStructures\Task6\Task6\obj\Debug\Task6.csproj.AssemblyReference.cache
+C:\Self.Educ\C#\TNKFF_Contest\BaseStructures\Task6\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+C:\Self.Educ\C#\TNKFF_Contest\BaseStructures\Task6\Task6\obj\Debug\Task6.exe
+C:\Self.Educ\C#\TNKFF_Contest\BaseStructures\Task6\Task6\obj\Debug\Task6.pdb

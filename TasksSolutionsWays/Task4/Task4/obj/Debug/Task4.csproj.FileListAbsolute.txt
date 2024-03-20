@@ -1,0 +1,6 @@
+C:\Self.Educ\C#\TNKFF_Contest\TasksSolutionsWays\Task4\Task4\bin\Debug\Task4.exe
+C:\Self.Educ\C#\TNKFF_Contest\TasksSolutionsWays\Task4\Task4\bin\Debug\Task4.pdb
+C:\Self.Educ\C#\TNKFF_Contest\TasksSolutionsWays\Task4\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+C:\Self.Educ\C#\TNKFF_Contest\TasksSolutionsWays\Task4\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Self.Educ\C#\TNKFF_Contest\TasksSolutionsWays\Task4\Task4\obj\Debug\Task4.exe
+C:\Self.Educ\C#\TNKFF_Contest\TasksSolutionsWays\Task4\Task4\obj\Debug\Task4.pdb

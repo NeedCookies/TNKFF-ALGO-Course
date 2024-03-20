@@ -1,0 +1,6 @@
+C:\Self.Educ\C#\TNKFF_Contest\BinarySearch10\BinarySearch10\bin\Debug\BinarySearch10.exe
+C:\Self.Educ\C#\TNKFF_Contest\BinarySearch10\BinarySearch10\bin\Debug\BinarySearch10.pdb
+C:\Self.Educ\C#\TNKFF_Contest\BinarySearch10\BinarySearch10\obj\Debug\BinarySearch10.csproj.AssemblyReference.cache
+C:\Self.Educ\C#\TNKFF_Contest\BinarySearch10\BinarySearch10\obj\Debug\BinarySearch10.csproj.CoreCompileInputs.cache
+C:\Self.Educ\C#\TNKFF_Contest\BinarySearch10\BinarySearch10\obj\Debug\BinarySearch10.exe
+C:\Self.Educ\C#\TNKFF_Contest\BinarySearch10\BinarySearch10\obj\Debug\BinarySearch10.pdb

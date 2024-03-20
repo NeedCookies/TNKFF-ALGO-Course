@@ -1,0 +1,6 @@
+C:\Self.Educ\CSharp\TNKFF_Contest\Strings\Task1\Task1\bin\Debug\Task1.exe
+C:\Self.Educ\CSharp\TNKFF_Contest\Strings\Task1\Task1\bin\Debug\Task1.pdb
+C:\Self.Educ\CSharp\TNKFF_Contest\Strings\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Self.Educ\CSharp\TNKFF_Contest\Strings\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Self.Educ\CSharp\TNKFF_Contest\Strings\Task1\Task1\obj\Debug\Task1.exe
+C:\Self.Educ\CSharp\TNKFF_Contest\Strings\Task1\Task1\obj\Debug\Task1.pdb

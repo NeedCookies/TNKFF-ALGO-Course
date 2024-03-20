@@ -1,0 +1,6 @@
+C:\Self.Educ\C#\TNKFF_Contest\Trees\Task2\Task2\bin\Debug\Task2.exe
+C:\Self.Educ\C#\TNKFF_Contest\Trees\Task2\Task2\bin\Debug\Task2.pdb
+C:\Self.Educ\C#\TNKFF_Contest\Trees\Task2\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Self.Educ\C#\TNKFF_Contest\Trees\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Self.Educ\C#\TNKFF_Contest\Trees\Task2\Task2\obj\Debug\Task2.exe
+C:\Self.Educ\C#\TNKFF_Contest\Trees\Task2\Task2\obj\Debug\Task2.pdb

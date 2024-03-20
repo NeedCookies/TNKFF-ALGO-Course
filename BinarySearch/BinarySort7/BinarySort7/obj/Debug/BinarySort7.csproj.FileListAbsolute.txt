@@ -1,0 +1,6 @@
+C:\Self.Educ\C#\TNKFF_Contest\BinarySort7\BinarySort7\bin\Debug\BinarySort7.exe
+C:\Self.Educ\C#\TNKFF_Contest\BinarySort7\BinarySort7\bin\Debug\BinarySort7.pdb
+C:\Self.Educ\C#\TNKFF_Contest\BinarySort7\BinarySort7\obj\Debug\BinarySort7.csproj.AssemblyReference.cache
+C:\Self.Educ\C#\TNKFF_Contest\BinarySort7\BinarySort7\obj\Debug\BinarySort7.csproj.CoreCompileInputs.cache
+C:\Self.Educ\C#\TNKFF_Contest\BinarySort7\BinarySort7\obj\Debug\BinarySort7.exe
+C:\Self.Educ\C#\TNKFF_Contest\BinarySort7\BinarySort7\obj\Debug\BinarySort7.pdb
