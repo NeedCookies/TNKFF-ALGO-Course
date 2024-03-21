@@ -12,13 +12,15 @@ namespace Task1
             int m = int.Parse(Console.ReadLine());
 
             StringBuilder ans = new StringBuilder();
-            ulong[] hashs = new ulong[str.Length + 1];
+            long[] hashs = new long[str.Length + 1];
+            long[] hashPr = new long[str.Length + 1];
             hashs[0] = 0;
-            ulong t = 29;
-            ulong aN = (int)'a';
-            for (int i = 1; i <= str.Length; i++)
+            hashPr[0] = 1;
+            long Pr = 1_000_000_009;
+            for (int i = 0; i < str.Length; i++)
             {
-                hashs[i] = hashs[i - 1] * t + ((ulong)str[i - 1] - aN);
+                hashs[i + 1] = hashs[i] * Pr + str[i];
+                hashPr[i + 1] = hashPr[i] * Pr;
             }
             for (int i = 0; i < m; i++)
             {
@@ -27,24 +29,19 @@ namespace Task1
                 int x2 = int.Parse(nn[1]);
                 int y1 = int.Parse(nn[2]);
                 int y2 = int.Parse(nn[3]);
-                ulong hash1 = hashs[x2] - hashs[x1 - 1] * ulong.Parse(Math.Pow(t, x2 - x1 + 1).ToString());
-                ulong hash2 = hashs[y2] - hashs[y1 - 1] * ulong.Parse(Math.Pow(t, y2 - y1 + 1).ToString());
-                if (x2 - x1 != y2 - y1)
-                {
-                    ans.Append("No\n");
-                    continue;
-                }
+                long hash1 = hashs[x2] - hashs[x1 - 1] * hashPr[x2 - x1 + 1];
+                long hash2 = hashs[y2] - hashs[y1 - 1] * hashPr[y2 - y1 + 1];
                 if (hash1 == hash2)
                 {
-                    ans.Append("Yes\n");
+                    ans.Append("Yes \n");
                 }
                 else
                 {
                     ans.Append("No\n");
                 }
             }
-
             Console.WriteLine(ans);
+            Console.ReadLine();
         }
     }
 }
