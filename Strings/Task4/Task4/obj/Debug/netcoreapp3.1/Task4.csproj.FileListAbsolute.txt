@@ -1,0 +1,14 @@
+C:\Self.Educ\CSharp\TNKFF_Course\Strings\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.exe
+C:\Self.Educ\CSharp\TNKFF_Course\Strings\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.deps.json
+C:\Self.Educ\CSharp\TNKFF_Course\Strings\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.json
+C:\Self.Educ\CSharp\TNKFF_Course\Strings\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.dev.json
+C:\Self.Educ\CSharp\TNKFF_Course\Strings\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.dll
+C:\Self.Educ\CSharp\TNKFF_Course\Strings\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.pdb
+C:\Self.Educ\CSharp\TNKFF_Course\Strings\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Self.Educ\CSharp\TNKFF_Course\Strings\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfoInputs.cache
+C:\Self.Educ\CSharp\TNKFF_Course\Strings\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfo.cs
+C:\Self.Educ\CSharp\TNKFF_Course\Strings\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.csproj.CoreCompileInputs.cache
+C:\Self.Educ\CSharp\TNKFF_Course\Strings\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.sourcelink.json
+C:\Self.Educ\CSharp\TNKFF_Course\Strings\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.dll
+C:\Self.Educ\CSharp\TNKFF_Course\Strings\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.pdb
+C:\Self.Educ\CSharp\TNKFF_Course\Strings\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.genruntimeconfig.cache
