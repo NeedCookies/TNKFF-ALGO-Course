@@ -1,0 +1,18 @@
+#Ignore all local tests
+**/tests.txt
+bin/
+obj/
+
+**/bin/
+**/bin
+
+**/Debug/
+**Debug
+
+**/*.xml
+
+**/.idea/
+**/.vs/
+
+
+**/AssemblyInfo.cs
