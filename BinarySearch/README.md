@@ -32,7 +32,7 @@ YES
 NO
 ```
 ***Замечание:***
-В массиве чисел от 1 до 10 есть числа 4, 9, но нет чисел -2, 0, 12
+В массиве чисел от 1 до 10 есть числа 4, 9, но нет чисел -2, 0, 12  
 [Решение](https://github.com/NeedCookies/TNKFF-ALGO-Course/blob/main/BinarySearch/BinarySearch1/BinarySearch/Program.cs)
 
 ### Задача B. Рядом
